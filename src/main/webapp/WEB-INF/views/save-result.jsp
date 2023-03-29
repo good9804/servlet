@@ -14,7 +14,7 @@
 성공
 <ul>
   <il>id=${member.id}</il>
-  <il>name=${member.name}</il>
+  <il>name=${member.username}</il>
   <il>age=${member.age}</il>
 </ul>
 </body>
